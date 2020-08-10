@@ -480,10 +480,10 @@ taskcluster-urls==12.1.0 \
     --hash=sha256:1dc740c32c7beb31e11ed7ccf9da2d47a504acdb3170c8900649433b0fd16fb2 \
     --hash=sha256:4a62c776aeba6d45044789a8845ec4d8521bc1bb6ebfc86d79ee759bcdd4f2f7 \
     # via taskcluster
-taskcluster==31.0.0 \
-    --hash=sha256:4bddc8985d680e362b641c1a6b08fe46b5489a820874e6e8acddfccc60aa8a48 \
-    --hash=sha256:611b67e81fd5d6395e0d2f0491bd44d6c2bdff9a1a280bb6881047e0139e1541 \
-    --hash=sha256:99ffacf79c549da21e665abac1d11fb5a1f73af0af5b0dccdc040ad457f2412a \
+taskcluster==36.0.0 \
+    --hash=sha256:0bcc8e033cedba0e3a1bd61d7f4343ed32f0b2395193bed04c404d0995f8d1eb \
+    --hash=sha256:40befd65f8f87f4e16295adbdab582117c38eb49f487a184a9e7541dabf3558e \
+    --hash=sha256:ec268fbcf08c0b1e31018ec6b1bf9b9d99640ab7764db725fbaf8f9a3bcc37c5 \
     # via -r base.in
 typed-ast==1.4.1 \
     --hash=sha256:0666aa36131496aed8f7be0410ff974562ab7eeac11ef351def9ea6fa28f6355 \
