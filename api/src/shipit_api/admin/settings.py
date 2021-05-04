@@ -77,7 +77,6 @@ XPI_PRIVILEGED_BUILD_GROUP = [
     "mleplatre@mozilla.com",  # remote-settings-devtools
     "mbanner@mozilla.com",
     "mcooper@mozilla.com",
-    "rdalal@mozilla.com",
     "rhelmer@mozilla.com",  # Rally team
     "than@mozilla.com",  # Rally team
 ]
@@ -93,11 +92,10 @@ XPI_NORMANDY_PRIVILEGED_GROUP = [
     "jkerim@mozilla.com",
     "mbanner@mozilla.com",
     "mcooper@mozilla.com",
-    "rdalal@mozilla.com",
     "ttran@mozilla.com",
 ]
 
-XPI_SYSTEM_ADMIN_GROUP = ["rdalal@mozilla.com", "mcooper@mozilla.com"]
+XPI_SYSTEM_ADMIN_GROUP = ["mcooper@mozilla.com"]
 
 XPI_MOZILLAONLINE_PRIVILEGED_GROUP = ["bzhao@mozilla.com", "jxia@mozilla.com", "yliu@mozilla.com"]
 XPI_MOZILLAONLINE_PRIVILEGED_ADMIN_GROUP = ["awagner@mozilla.com", "mkaply@mozilla.com"]
